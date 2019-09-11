@@ -42,3 +42,14 @@ C:\Users\Troy Maxwell\source\repos\weeklychallenges-Troy2Maxwell\ChallengesWithT
 C:\Users\Troy Maxwell\source\repos\weeklychallenges-Troy2Maxwell\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.AssemblyInfo.cs
 C:\Users\Troy Maxwell\source\repos\weeklychallenges-Troy2Maxwell\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.dll
 C:\Users\Troy Maxwell\source\repos\weeklychallenges-Troy2Maxwell\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.pdb
+C:\Users\Troy Maxwell\Desktop\weeklychallenges-Troy2Maxwell\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.csprojAssemblyReference.cache
+C:\Users\Troy Maxwell\Desktop\weeklychallenges-Troy2Maxwell\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.csproj.CoreCompileInputs.cache
+C:\Users\Troy Maxwell\Desktop\weeklychallenges-Troy2Maxwell\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.AssemblyInfoInputs.cache
+C:\Users\Troy Maxwell\Desktop\weeklychallenges-Troy2Maxwell\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.AssemblyInfo.cs
+C:\Users\Troy Maxwell\Desktop\weeklychallenges-Troy2Maxwell\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.dll
+C:\Users\Troy Maxwell\Desktop\weeklychallenges-Troy2Maxwell\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.pdb
+C:\Users\Troy Maxwell\Desktop\weeklychallenges-Troy2Maxwell\ChallengesWithTestsMark8\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.deps.json
+C:\Users\Troy Maxwell\Desktop\weeklychallenges-Troy2Maxwell\ChallengesWithTestsMark8\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.runtimeconfig.json
+C:\Users\Troy Maxwell\Desktop\weeklychallenges-Troy2Maxwell\ChallengesWithTestsMark8\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.runtimeconfig.dev.json
+C:\Users\Troy Maxwell\Desktop\weeklychallenges-Troy2Maxwell\ChallengesWithTestsMark8\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.dll
+C:\Users\Troy Maxwell\Desktop\weeklychallenges-Troy2Maxwell\ChallengesWithTestsMark8\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.pdb
