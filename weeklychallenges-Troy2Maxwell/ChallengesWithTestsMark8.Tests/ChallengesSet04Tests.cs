@@ -190,13 +190,13 @@ namespace ChallengesWithTestsMark8.Tests
         [InlineData(new int[] { 0, 0, 0 }, 0)]
         [InlineData(new int[] { }, 0)]
         [InlineData(null, 0)]
-        public void AverageEvens(int[] numbers, double expected)
+        public void AverageEvens(int [] numbers, double expected)
         {
             // Arrange
             ChallengesSet04 challenger = new ChallengesSet04();
 
             // Act
-            double actual = challenger.AverageEvens(numbers);
+            double actual = challenger.AverageEvens(numbers: numbers);
 
             // Assert
             Assert.Equal(Math.Round(expected, 5), Math.Round(actual, 5));
